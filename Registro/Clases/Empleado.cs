@@ -20,7 +20,7 @@ namespace Registro.Clases
         public DateTime fecha_Ingreso { get; set; }
 
 
-        public string Caego { get; set; } = "";
+        public string Cargo { get; set; } = "";
 
 
         public double Sueldo { get; set; }
